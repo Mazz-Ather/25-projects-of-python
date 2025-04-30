@@ -8,6 +8,9 @@ from responses import get_response
 load_dotenv()
 TOKEN: final = os.getenv('DISCORD_TOKEN')
 
+
+
+
 # step1 : bot setup
 intents = Intents.default()
 intents.message_content = True
