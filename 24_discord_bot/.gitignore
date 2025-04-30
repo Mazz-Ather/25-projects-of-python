@@ -1,0 +1,21 @@
+# Ignore environment/config files
+.env
+.env.*
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS + Windows system files (optional)
+.DS_Store
+Thumbs.db

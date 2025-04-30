@@ -1,0 +1,11 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.14.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:E:\Python\04_assignment_and_projects\25_projects\.npmrc
+5 silly config load:file:C:\Users\lenovo\.npmrc
+6 silly config load:file:C:\Users\lenovo\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install git-filter-repo
+8 verbose argv "--cache" "cleanpip" "install" "git-filter-repo"
+9 verbose logfile logs-max:10 dir:E:\Python\04_assignment_and_projects\25_projects\cleanpip\_logs\2025-04-30T06_10_44_667Z-
+10 verbose logfile E:\Python\04_assignment_and_projects\25_projects\cleanpip\_logs\2025-04-30T06_10_44_667Z-debug-0.log
